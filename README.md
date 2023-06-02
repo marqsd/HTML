@@ -1,2 +1,2 @@
 # HTML
-Projetos html
+Página destinada à projetos em HTML
